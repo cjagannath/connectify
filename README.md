@@ -1,2 +1,2 @@
 # connectify
-Connect notifications on the desktop
+Receive Connect notifications on the desktop
